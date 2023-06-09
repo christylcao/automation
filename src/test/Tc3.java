@@ -3,7 +3,8 @@ package test;
 public class Tc3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("I am goin to make 6 figures in a month!");
 
 	}
 
